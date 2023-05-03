@@ -1,0 +1,19 @@
+pandas
+numpy
+openai
+langchain
+python-dotenv
+pyyaml
+requests
+docker
+google-api-python-client #(https://developers.google.com/custom-search/v1/overview)
+huggingface_hub
+transformers
+sentence_transformers
+accelerate
+bitsandbytes
+streamlit
+streamlit-chat
+ruff
+pytest
+pal @ git+https://github.com/reasoning-machines/pal.git
